@@ -2,7 +2,13 @@
 
 Backend-focused developer with experience building scalable and efficient systems. Also comfortable working across the full stack when needed, delivering end-to-end solutions.
 
-![GitHub Stats](https://github-readme-stats-six-rust-92.vercel.app/api?username=GabrielMartinsMeira&show_icons=true&theme=radical)
+</br>
+
+<p align="center">
+  <img src="https://github-readme-stats-six-rust-92.vercel.app/api?username=GabrielMartinsMeira&show_icons=true&theme=radical" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-six-rust-92.vercel.app/api/top-langs/?username=GabrielMartinsMeira&layout=compact&theme=radical" height="180"/>
+</p>
 
 # Tech Stack & Tools
 
