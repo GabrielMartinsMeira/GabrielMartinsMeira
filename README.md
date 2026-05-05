@@ -2,7 +2,7 @@
 
 Backend-focused developer with experience building scalable and efficient systems. Also comfortable working across the full stack when needed, delivering end-to-end solutions.
 
-![GitHub Stats](https://github-readme-stats-git-masterrajjr.vercel.app/api?username=GabrielMartinsMeira&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-six-rust-92.vercel.app/api?username=GabrielMartinsMeira&show_icons=true&theme=radical)
 
 # Tech Stack & Tools
 
