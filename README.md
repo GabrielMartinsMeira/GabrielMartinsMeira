@@ -35,8 +35,4 @@ Backend-focused developer with experience building scalable and efficient system
     <td><a href="https://www.linkedin.com/in/gabrielmartinsmeira/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45"/></a></td>
     <td><b>LinkedIn</b></td>
   </tr>
-  <tr>
-    <td><a href="https://instagram.com/gabriel_martinskr"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/></a></td>
-    <td><b>Instagram</b></td>
-  </tr>
 </table>
